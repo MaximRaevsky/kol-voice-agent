@@ -1,0 +1,602 @@
+[
+  {
+    "id": "d412c317-cea5-475c-bddf-388648e8f173",
+    "leadId": "7be82ffa-5f99-4808-b63d-e66d3033c420",
+    "sessionId": "7ba5195a-68e6-4bf6-bcd0-9e3b74c88a56",
+    "type": "OUTBOUND_CALL",
+    "outcome": "MEETING_BOOKED",
+    "summary": "נקבעה פגישה",
+    "notes": "הלקוחה הביעה עניין רב בפתרון. נקבעה פגישה להדגמה.",
+    "duration": 180,
+    "createdAt": 1779784634442
+  },
+  {
+    "id": "94408e45-2675-4463-be87-47e8c725214c",
+    "leadId": "a5be7f00-23aa-4dba-9e74-61312adcab65",
+    "sessionId": "944a9147-f15e-42a4-8e36-adc85025747a",
+    "type": "OUTBOUND_CALL",
+    "outcome": "MEETING_BOOKED",
+    "summary": "נקבעה פגישה",
+    "notes": "שיחה מצוינת! אבי רוצה לראות הדגמה מלאה של המוצר.",
+    "duration": 210,
+    "createdAt": 1779784634442
+  },
+  {
+    "id": "13445ac3-a952-4304-89b4-dac110f782b7",
+    "leadId": "bce2cd24-524e-46c3-929d-b2de5b2f996d",
+    "sessionId": "35c99399-7471-4563-a92b-05541817f461",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "ביקש לחזור",
+    "notes": "עסוק כרגע, ביקש לחזור אליו ביום שני.",
+    "duration": 45,
+    "createdAt": 1779784634442
+  },
+  {
+    "leadId": "7a12e7b4-c590-40a5-be39-58fdca9cc062",
+    "sessionId": "a593ce08-3947-4f92-a18b-8f5cdfbbfced",
+    "type": "OUTBOUND_CALL",
+    "outcome": "MEETING_BOOKED",
+    "summary": "Meeting scheduled successfully",
+    "duration": 180,
+    "id": "81c71826-3b39-4a6b-8cb7-3d4535ca7349",
+    "createdAt": 1779785057005
+  },
+  {
+    "leadId": "78b752fa-a258-4652-b3a5-443755b317b6",
+    "sessionId": "db2a8d8c-aca3-40c3-bd8e-721035572a70",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "Customer requested callback tomorrow",
+    "duration": 45,
+    "id": "fbaf34f3-e9bc-42b5-ab8a-b74d8c670e9c",
+    "createdAt": 1779785057005
+  },
+  {
+    "leadId": "c9ed0cd7-741e-4cef-94eb-2c3f2ba3f47a",
+    "sessionId": "dfeab241-fb66-4f1f-a9c4-be83508108d8",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "Customer not interested",
+    "duration": 30,
+    "id": "82677cbd-c876-49c7-9b7e-c400bc506669",
+    "createdAt": 1779785057006
+  },
+  {
+    "leadId": "fda8016f-a021-46ae-9e98-8049f8f16167",
+    "sessionId": "e2bee461-2cda-4654-a9eb-f2c6fa4a1ca8",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "Test call",
+    "duration": 60,
+    "transcript": "agent: שלום!\ncustomer: היי\nagent: יש לך דקה?",
+    "id": "e77d473c-c0cc-4b14-99e2-480a11f3a981",
+    "createdAt": 1779785057007
+  },
+  {
+    "leadId": "392b0761-546d-4c30-8c69-830005f39c2f",
+    "sessionId": "fbe4fb0d-2e07-410d-b42d-2814c0f56d23",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "First call",
+    "duration": 30,
+    "id": "87190a22-af28-4505-92d1-2f6462630f82",
+    "createdAt": 1779785057007
+  },
+  {
+    "leadId": "c1cd3f75-aa64-405a-a153-182a7f826ec7",
+    "sessionId": "604e0af0-674a-4a58-b91e-f28247317bb9",
+    "type": "OUTBOUND_CALL",
+    "outcome": "MEETING_BOOKED",
+    "summary": "נקבעה פגישה",
+    "duration": 180,
+    "id": "64591c00-7c70-4fb3-96e1-b67f34bbab5c",
+    "createdAt": 1779785057010
+  },
+  {
+    "leadId": "ee2ee48d-4537-4a5b-bc22-279a0bb24f1f",
+    "sessionId": "84925ae9-ffed-40b0-a78a-fdc5d7dccb76",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "ביקש לחזור מחר",
+    "duration": 45,
+    "id": "50607c0e-53a7-43a1-b303-947bb389473e",
+    "createdAt": 1779785057013
+  },
+  {
+    "leadId": "930ea05e-0bb8-4b07-bf4c-b2fde9267358",
+    "sessionId": "51a4e581-e0d5-42d6-91ca-248455a2fb9b",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "לא מעוניין",
+    "duration": 30,
+    "id": "ca33ff67-9b7e-45c2-9453-d8a215504104",
+    "createdAt": 1779785057015
+  },
+  {
+    "leadId": "a548c4f5-055e-44f0-84f8-1c23fe6fa15f",
+    "sessionId": "8123def7-c80f-4bf1-a5cf-8d8f407dfc2a",
+    "type": "OUTBOUND_CALL",
+    "outcome": "MEETING_BOOKED",
+    "summary": "Meeting scheduled successfully",
+    "duration": 180,
+    "id": "932d7c9b-63ba-4e3c-ad92-5bf8557f4f9d",
+    "createdAt": 1779785187714
+  },
+  {
+    "leadId": "0743cd75-8390-41c3-8fc7-f4ed3d24f85e",
+    "sessionId": "f854b821-d18c-407b-848a-a6478f836736",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "Customer requested callback tomorrow",
+    "duration": 45,
+    "id": "ebf62443-d295-40ab-bd73-950cc2b88f81",
+    "createdAt": 1779785187715
+  },
+  {
+    "leadId": "f82eba27-5ba0-4ce0-8c14-429df3223aa4",
+    "sessionId": "7bc61179-2d09-4db3-8635-8ee49e7c0dec",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "Customer not interested",
+    "duration": 30,
+    "id": "04b5e6c7-d4c4-4829-930e-e6aab9168faa",
+    "createdAt": 1779785187715
+  },
+  {
+    "leadId": "9969dbe9-2dea-4f1f-8067-56ba0309114d",
+    "sessionId": "d6eaf79b-9a0e-4ad7-92fc-a1477f39abcd",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "Test call",
+    "duration": 60,
+    "transcript": "agent: שלום!\ncustomer: היי\nagent: יש לך דקה?",
+    "id": "6eabdbe4-c928-4a86-89a8-b94d79d09659",
+    "createdAt": 1779785187716
+  },
+  {
+    "leadId": "eb52e9b1-5a64-4aa0-8a9c-f5e9dfb9cefa",
+    "sessionId": "50ebb003-4686-4956-ae72-683f2221916a",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "First call",
+    "duration": 30,
+    "id": "31aad9f4-e9b8-44e7-af0c-6990cb898faf",
+    "createdAt": 1779785187717
+  },
+  {
+    "leadId": "481b5ba9-fb63-438d-96fb-10e7544671e4",
+    "sessionId": "fbd7204a-bc58-4dbd-89a2-5af04cc6be21",
+    "type": "OUTBOUND_CALL",
+    "outcome": "MEETING_BOOKED",
+    "summary": "נקבעה פגישה",
+    "duration": 180,
+    "id": "a38f2131-f31f-4401-be55-07144de6fc5c",
+    "createdAt": 1779785187720
+  },
+  {
+    "leadId": "83977190-bbd0-4f53-927b-588b8205dfb5",
+    "sessionId": "bc911883-7fd6-4b16-a61a-1e1d6f5b881a",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "ביקש לחזור מחר",
+    "duration": 45,
+    "id": "5b74d3a1-ec7c-465b-bd16-bcaae20e3b5a",
+    "createdAt": 1779785187723
+  },
+  {
+    "leadId": "f9d00a55-9fcd-45b1-8c31-71f9e83691f3",
+    "sessionId": "4282412c-ecaf-4330-a872-6f533778c89b",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "לא מעוניין",
+    "duration": 30,
+    "id": "e398dfdd-150e-410f-91b1-b32da5cf6c4d",
+    "createdAt": 1779785187726
+  },
+  {
+    "leadId": "01914d1d-11b6-4537-a826-aafcb76ba8b0",
+    "sessionId": "3d90d3b6-ad8d-4acb-9a86-8b5b88da21e1",
+    "type": "OUTBOUND_CALL",
+    "outcome": "MEETING_BOOKED",
+    "summary": "Meeting scheduled successfully",
+    "duration": 180,
+    "id": "d0c6a8d7-68d0-4792-9fad-ac85da7b5bf3",
+    "createdAt": 1779785814953
+  },
+  {
+    "leadId": "a026869d-84b9-498e-831e-0303f04f2e9c",
+    "sessionId": "ee504528-01fc-4225-bad2-9238e12f0a3e",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "Customer requested callback tomorrow",
+    "duration": 45,
+    "id": "60d5f4cd-2702-4d27-b808-97cb3f4a3af7",
+    "createdAt": 1779785814954
+  },
+  {
+    "leadId": "408209da-e736-4b7a-af79-3734be657b1b",
+    "sessionId": "2966e1ee-1525-4284-a0e6-2ec577278024",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "Customer not interested",
+    "duration": 30,
+    "id": "347a54b6-1826-4ec9-affe-535b96d0fafb",
+    "createdAt": 1779785814955
+  },
+  {
+    "leadId": "eee5736f-d1d7-4ee9-8c91-8e83490a3af2",
+    "sessionId": "e389a4a0-e4bf-4980-971c-8d411fbc0b38",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "Test call",
+    "duration": 60,
+    "transcript": "agent: שלום!\ncustomer: היי\nagent: יש לך דקה?",
+    "id": "6cae4879-a9e0-4406-b374-1bf4dc3881bf",
+    "createdAt": 1779785814956
+  },
+  {
+    "leadId": "39ab4012-7e29-4eef-94ad-3174d84f9381",
+    "sessionId": "18dfbb0a-4699-485b-a4e6-e69e6e3699e0",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "First call",
+    "duration": 30,
+    "id": "dd8b6c1e-2d94-4a6b-bd50-8ae29ede290d",
+    "createdAt": 1779785814956
+  },
+  {
+    "leadId": "158ceebd-c368-48c0-9c32-9872ab1c81dd",
+    "sessionId": "7d51df69-fdf4-4001-9821-01e14779e0bb",
+    "type": "OUTBOUND_CALL",
+    "outcome": "MEETING_BOOKED",
+    "summary": "נקבעה פגישה",
+    "duration": 180,
+    "id": "56055fbd-feda-426f-8151-af6d89f7a41b",
+    "createdAt": 1779785814959
+  },
+  {
+    "leadId": "87499612-e0bc-439b-bd70-3b518c8a3e54",
+    "sessionId": "e128ce57-6630-4a1d-9cfd-fded9377288d",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "ביקש לחזור מחר",
+    "duration": 45,
+    "id": "f117722b-dc6c-42db-bd60-56b21aa97077",
+    "createdAt": 1779785814963
+  },
+  {
+    "leadId": "87f4e501-9bf1-4b15-af3a-d0938bb17524",
+    "sessionId": "e4da6570-753b-4c8b-9554-2fb226fecdec",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "לא מעוניין",
+    "duration": 30,
+    "id": "79dde956-72ee-409d-bc36-fc8b9b821255",
+    "createdAt": 1779785814965
+  },
+  {
+    "leadId": "1df8a309-7801-409f-925d-2a1ac42f886a",
+    "sessionId": "ffe4e27f-836c-473e-ba4f-85e133759278",
+    "type": "OUTBOUND_CALL",
+    "outcome": "MEETING_BOOKED",
+    "summary": "Meeting scheduled successfully",
+    "duration": 180,
+    "id": "5b20d43b-ce58-4ccb-b058-dca14ec08341",
+    "createdAt": 1779786468177
+  },
+  {
+    "leadId": "9ef30f37-c448-47fd-b559-ba8a72f2f583",
+    "sessionId": "a9a5b4fe-f1f9-4346-8b03-a309b3e98f0b",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "Customer requested callback tomorrow",
+    "duration": 45,
+    "id": "3c893c41-2b53-445a-982e-457735c0c53f",
+    "createdAt": 1779786468178
+  },
+  {
+    "leadId": "5571012f-a202-4e05-90d6-e31b7b4728d1",
+    "sessionId": "cd80c004-2393-4912-906a-088d3e40df92",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "Customer not interested",
+    "duration": 30,
+    "id": "da628328-8f5f-4aab-bfc0-3bc39c080e2c",
+    "createdAt": 1779786468179
+  },
+  {
+    "leadId": "baf4ad55-467f-4dc5-a27f-6f4ef14ec0aa",
+    "sessionId": "f174d309-6767-41b9-9196-b3614b56a310",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "Test call",
+    "duration": 60,
+    "transcript": "agent: שלום!\ncustomer: היי\nagent: יש לך דקה?",
+    "id": "bf5888ae-61e0-4aff-8491-c52cd8f0986b",
+    "createdAt": 1779786468180
+  },
+  {
+    "leadId": "ae4b7d40-9341-4376-8925-9b4d692feeb7",
+    "sessionId": "9d396b9a-57c9-4dca-a3fa-7b689ca879c9",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "First call",
+    "duration": 30,
+    "id": "64d03a26-9815-4197-ad1a-593831f5fba4",
+    "createdAt": 1779786468180
+  },
+  {
+    "leadId": "8a8f6d7f-63e9-4d92-81c2-57c347408260",
+    "sessionId": "e85a55ae-6133-4cf0-95ee-252f8c6b4db8",
+    "type": "OUTBOUND_CALL",
+    "outcome": "MEETING_BOOKED",
+    "summary": "נקבעה פגישה",
+    "duration": 180,
+    "id": "58850b11-d6e9-412b-a742-8a42e0669997",
+    "createdAt": 1779786468184
+  },
+  {
+    "leadId": "866183e4-0af9-4128-95ea-d08673825eb8",
+    "sessionId": "3908ffac-ec87-4b4f-acc3-30c3ea392222",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "ביקש לחזור מחר",
+    "duration": 45,
+    "id": "dc88bd58-31c3-4206-9cd9-d306b5f895cd",
+    "createdAt": 1779786468187
+  },
+  {
+    "leadId": "2a8d1253-0e92-42d1-ab5e-7ab581750152",
+    "sessionId": "1ee101c6-f2ea-4897-9e34-16bcef0765fb",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "לא מעוניין",
+    "duration": 30,
+    "id": "1e60b6b3-16c0-4d40-9e3b-6590ca687fc5",
+    "createdAt": 1779786468190
+  },
+  {
+    "leadId": "65c62063-94d6-4749-8d97-d1002d6fc2f5",
+    "sessionId": "dd878fcc-c002-4f64-b88c-dfc9fb421bab",
+    "type": "OUTBOUND_CALL",
+    "outcome": "MEETING_BOOKED",
+    "summary": "Meeting scheduled successfully",
+    "duration": 180,
+    "id": "99013cb2-a7fa-42c0-a547-fca95db32cd9",
+    "createdAt": 1779787055911
+  },
+  {
+    "leadId": "8be2ef5e-c698-4260-ac47-69c0dbb690fc",
+    "sessionId": "996e8f11-ca69-4933-9f63-42fe144419c6",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "Customer requested callback tomorrow",
+    "duration": 45,
+    "id": "550cafcf-03f9-4461-956c-3045c74b6a9b",
+    "createdAt": 1779787055912
+  },
+  {
+    "leadId": "388a250d-941a-487d-9213-123cf75a5915",
+    "sessionId": "09d1c5a3-6300-4226-a746-0a3ecb32564c",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "Customer not interested",
+    "duration": 30,
+    "id": "8141c107-80a7-4e4c-a568-45d2cc816c7d",
+    "createdAt": 1779787055913
+  },
+  {
+    "leadId": "61345c11-e0fc-48ed-99ae-2c1c94d8cf05",
+    "sessionId": "bec457fc-551c-422d-b3f6-cef237384eb8",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "Test call",
+    "duration": 60,
+    "transcript": "agent: שלום!\ncustomer: היי\nagent: יש לך דקה?",
+    "id": "88c91c5c-fdfc-4b84-b7cf-a3ce125214f0",
+    "createdAt": 1779787055914
+  },
+  {
+    "leadId": "0cc09597-7b8d-4049-af7c-15f89da1b83b",
+    "sessionId": "d206fc04-fa1b-47e4-81f1-6e7d1982f448",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "First call",
+    "duration": 30,
+    "id": "060fb37a-7adf-4659-af9f-845a9e2f4fa9",
+    "createdAt": 1779787055915
+  },
+  {
+    "leadId": "58a90d69-d0af-48ce-9ce3-6ce9eb0545ff",
+    "sessionId": "cc64da46-3161-4d1e-9522-99379ec9fbe2",
+    "type": "OUTBOUND_CALL",
+    "outcome": "MEETING_BOOKED",
+    "summary": "נקבעה פגישה",
+    "duration": 180,
+    "id": "c1ffdfa2-28f5-4d57-b7c2-69e1690190db",
+    "createdAt": 1779787055918
+  },
+  {
+    "leadId": "294dd196-5071-4c8c-aeaf-cd49ee343e92",
+    "sessionId": "0699a7c1-ff2b-46c4-aaec-de3197790364",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "ביקש לחזור מחר",
+    "duration": 45,
+    "id": "0401cb18-71b3-43aa-8183-d681539e7aba",
+    "createdAt": 1779787055922
+  },
+  {
+    "leadId": "098b69d3-c7f7-478f-b4c3-094583476613",
+    "sessionId": "2aaeccb4-4c49-4829-96b9-f4a7fc125cc7",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "לא מעוניין",
+    "duration": 30,
+    "id": "c727297c-444b-4c28-8aeb-acb41e54d1d2",
+    "createdAt": 1779787055925
+  },
+  {
+    "leadId": "c852825d-755f-4bc0-bdc9-62f18cce008b",
+    "sessionId": "71522922-2850-4fc8-a30a-14ad8ad157aa",
+    "type": "OUTBOUND_CALL",
+    "outcome": "MEETING_BOOKED",
+    "summary": "Meeting scheduled successfully",
+    "duration": 180,
+    "id": "98a088c0-f7d8-49c6-803f-f4f342daa788",
+    "createdAt": 1779805187991
+  },
+  {
+    "leadId": "dd2fc991-5d78-4057-8a11-bb025967456e",
+    "sessionId": "7587344d-51ab-48a9-8c7f-7a9e65951824",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "Customer requested callback tomorrow",
+    "duration": 45,
+    "id": "71c6d354-cb6f-4227-a02c-62675e3e7b11",
+    "createdAt": 1779805187992
+  },
+  {
+    "leadId": "a98c95c0-e885-4c2f-8a5a-be64b5ec26e4",
+    "sessionId": "971e2609-196e-498a-a9e8-1e4c5cffe41c",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "Customer not interested",
+    "duration": 30,
+    "id": "b0590ab9-1f61-42db-91e9-2490dc571d78",
+    "createdAt": 1779805187993
+  },
+  {
+    "leadId": "41f8f156-6371-43b2-b8ef-97d3c65b83a0",
+    "sessionId": "677038f7-a0c1-49f5-b394-7eab353005bb",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "Test call",
+    "duration": 60,
+    "transcript": "agent: שלום!\ncustomer: היי\nagent: יש לך דקה?",
+    "id": "501e65fa-f595-4626-bce9-967e6502e2a2",
+    "createdAt": 1779805187993
+  },
+  {
+    "leadId": "646842c9-8273-40f3-a41e-491fea650b54",
+    "sessionId": "2849e968-2aea-4f55-b58b-91e4d0410854",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "First call",
+    "duration": 30,
+    "id": "fe8b0bcb-627d-4c98-9adf-b0db0fdc9075",
+    "createdAt": 1779805187994
+  },
+  {
+    "leadId": "28f8558f-c4da-4618-b63f-2b803938755a",
+    "sessionId": "f3c262af-fa2a-4a92-be31-2396e314f453",
+    "type": "OUTBOUND_CALL",
+    "outcome": "MEETING_BOOKED",
+    "summary": "נקבעה פגישה",
+    "duration": 180,
+    "id": "19987d41-f0c2-4543-94d6-4207deef0cb2",
+    "createdAt": 1779805187998
+  },
+  {
+    "leadId": "725cb8f1-6977-413a-b183-85bd17d10bd0",
+    "sessionId": "19a1ef71-fce7-415c-9b08-4cc634f69c44",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "ביקש לחזור מחר",
+    "duration": 45,
+    "id": "b720424f-c6c1-43d6-8fa2-77d7a3a36178",
+    "createdAt": 1779805188001
+  },
+  {
+    "leadId": "e5b65e33-0dbc-4887-9471-6fb2633ab46c",
+    "sessionId": "3e9f7f9a-ee93-4eb7-9fb8-9bbb1b2937cb",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "לא מעוניין",
+    "duration": 30,
+    "id": "aa243805-b633-4ecb-89a7-ea15174a297e",
+    "createdAt": 1779805188004
+  },
+  {
+    "leadId": "1c30cd7f-a6c2-4f9e-acba-cda2d36387a1",
+    "sessionId": "bc2e7b59-4814-4705-8ee4-94eba7f5fcbd",
+    "type": "OUTBOUND_CALL",
+    "outcome": "MEETING_BOOKED",
+    "summary": "Meeting scheduled successfully",
+    "duration": 180,
+    "id": "d3322a30-9a57-4b4a-a291-2a38556728b0",
+    "createdAt": 1779805196221
+  },
+  {
+    "leadId": "60f4b43c-dbcf-44d1-8a7f-ac4115236da4",
+    "sessionId": "46387982-7756-488a-8fa0-e72d527cd451",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "Customer requested callback tomorrow",
+    "duration": 45,
+    "id": "05f5b06b-9d57-4bca-9a36-33062200f423",
+    "createdAt": 1779805196222
+  },
+  {
+    "leadId": "f8c08432-0f2f-49fa-9c25-14ce0809b9e2",
+    "sessionId": "8d0d98a4-4650-46fe-91ee-16e1db7fb7ba",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "Customer not interested",
+    "duration": 30,
+    "id": "493c0b0e-ca51-425a-b28e-ba279b3f6deb",
+    "createdAt": 1779805196222
+  },
+  {
+    "leadId": "03a47792-c378-41e8-be3b-b813fef8ee6d",
+    "sessionId": "7b2d1b01-1cbe-4043-b49c-55969cbb98f9",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "Test call",
+    "duration": 60,
+    "transcript": "agent: שלום!\ncustomer: היי\nagent: יש לך דקה?",
+    "id": "548920ac-0af8-4c43-9da3-512c0d91a883",
+    "createdAt": 1779805196224
+  },
+  {
+    "leadId": "9198b691-4f3d-452b-82ad-13fc441a12aa",
+    "sessionId": "a1aa5064-88ac-4dbf-b0f7-3fa5c1bb1a07",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "First call",
+    "duration": 30,
+    "id": "c966c56b-2701-4bd2-b8d2-c0590f3b27e9",
+    "createdAt": 1779805196225
+  },
+  {
+    "leadId": "03b57065-3b9c-4575-97b9-e4b7cf81cc77",
+    "sessionId": "6dcef902-c1f3-4b04-9fb4-952b0e1fe939",
+    "type": "OUTBOUND_CALL",
+    "outcome": "MEETING_BOOKED",
+    "summary": "נקבעה פגישה",
+    "duration": 180,
+    "id": "49b499f5-0866-4a2f-89e3-70dc797b967d",
+    "createdAt": 1779805196229
+  },
+  {
+    "leadId": "a2d696fc-fd56-4a4d-b24f-64018aecf8ee",
+    "sessionId": "8b838c7f-f71b-4c12-8183-63fe2ec7ef28",
+    "type": "OUTBOUND_CALL",
+    "outcome": "CALLBACK_REQUESTED",
+    "summary": "ביקש לחזור מחר",
+    "duration": 45,
+    "id": "efea958e-4c91-48e7-a43e-8a46efdf4fcb",
+    "createdAt": 1779805196234
+  },
+  {
+    "leadId": "c7b0b87b-f56b-4db1-b7da-d7a44b256364",
+    "sessionId": "c38cd9f3-c021-4d5c-af5a-3d7b89cb7171",
+    "type": "OUTBOUND_CALL",
+    "outcome": "NOT_INTERESTED",
+    "summary": "לא מעוניין",
+    "duration": 30,
+    "id": "9f2d9f39-218b-48cf-9a6e-5942b51f1f77",
+    "createdAt": 1779805196237
+  }
+]

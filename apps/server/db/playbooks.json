@@ -1,0 +1,12 @@
+{
+  "OUTBOUND_SALES_HE": {
+    "useCase": "OUTBOUND_SALES_HE",
+    "name": "Kol Outbound Sales (Hebrew)",
+    "language": "he-IL",
+    "companyName": "Kol",
+    "productDescription": "פתרונות AI לשיחות מכירה",
+    "id": "da0852f4-e46f-4b91-94b4-724be823beb4",
+    "createdAt": 1779784634442,
+    "updatedAt": 1779784634442
+  }
+}
