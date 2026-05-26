@@ -6,31 +6,7 @@
  */
 
 import { describe, it, expect } from 'vitest';
-import { z } from 'zod';
-
-// Import the AIDecisionSchema from aiDecider
-// Note: We recreate it here since it's not exported
-const AIDecisionSchema = z.object({
-  customerMeaning: z.string().optional().default('Unknown'),
-  nextState: z.enum([
-    'GREETING', 'PITCH', 'QUALIFY', 'MEETING_PROPOSAL', 
-    'BOOKING', 'CLOSING', 'ENDED'
-  ]).optional().default('PITCH'),
-  customResponse: z.string().optional().nullable(),
-  shouldBookMeeting: z.boolean().optional().default(false),
-  selectedSlotIndex: z.number().optional().nullable(),
-  shouldEndCall: z.boolean().optional().default(false),
-  callOutcome: z.enum([
-    'MEETING_BOOKED', 'NOT_INTERESTED', 'CALLBACK_REQUESTED', 
-    'WRONG_NUMBER', 'OTHER'
-  ]).optional().nullable(),
-  extractedQualification: z.object({
-    role: z.string().optional().nullable(),
-    teamSize: z.string().optional().nullable(),
-    challenge: z.string().optional().nullable(),
-  }).optional().nullable(),
-  reasoning: z.string().optional().default(''),
-});
+import { AIDecisionSchema } from '../domain/agent/aiDecider.js';
 
 describe('AIDecisionSchema', () => {
   describe('Valid decisions', () => {

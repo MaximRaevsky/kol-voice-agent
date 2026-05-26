@@ -14,7 +14,7 @@ import type { SessionState } from './types.js';
 // Schema for AI Decision
 // ============================================
 
-const AIDecisionSchema = z.object({
+export const AIDecisionSchema = z.object({
   // What did the customer mean?
   customerMeaning: z.string().optional().default('Unknown'),
   
